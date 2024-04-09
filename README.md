@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sam Sepiol</h1>
+<h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Security enthusiast | Penetration testing | Red Teamer</h3>
+img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f751eeaee2f85ed76db7423d8db41ea1/724ea45a68a1a857-86/s1280x1920/d1210f4cd607beead1a4a743a9e85bf9eb963c50.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelroxgit&label=Profile%20views&color=0e75b6&style=flat" alt="joelroxgit" /> </p>
 
