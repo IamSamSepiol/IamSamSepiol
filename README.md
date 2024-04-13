@@ -13,4 +13,3 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamSamSepiol&show_icons=true&locale=en&layout=compact" alt="IamSamSepiol" />
 </div><hr>
-<img src="https://www.teahub.io/photos/full/283-2839995_mr-robot-hack.jpg" /> 
