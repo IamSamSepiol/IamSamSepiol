@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Sepiol</h1>
 <h3 align="center">Security enthusiast | Penetration testing | Red Teamer</h3>
 
-<p align="center"> <img src="https://www.teahub.io/photos/full/283-2839995_mr-robot-hack.jpg" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/236x/df/49/9d/df499db65eb47757e8a7537cc8a818ac.jpg" /> </p>
 
 <p align="left">
 </p>
